@@ -3,7 +3,7 @@
 # 资源包打包
  1.创建不带activity的安卓项目
  
- 2.删除所有的依赖和不必要的代码，以防打包过大，关掉删除无用资源和混淆（我也上穿了我的资源包的项目[SkinDemo](https://github.com/houkhan/SkinDemo)，可以下载观看）
+ 2.删除所有的依赖和不必要的代码，以防打包过大，关掉删除无用资源和混淆（我也上传了我的资源包的项目[SkinDemo](https://github.com/houkhan/SkinDemo)，可以下载观看）
  
  3.进行builder->builder apk 进行打包
  
