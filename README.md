@@ -3,7 +3,7 @@
 # 资源包打包
  1.创建不带activity的安卓项目
  
- 2.删除所有的依赖和不必要的代码，以防打包过大，关掉删除无用资源和混淆（我也上穿了我的资源包的项目<SkinDemo>(https://github.com/houkhan/SkinDemo)，可以下载观看）
+ 2.删除所有的依赖和不必要的代码，以防打包过大，关掉删除无用资源和混淆（我也上穿了我的资源包的项目[SkinDemo](https://github.com/houkhan/SkinDemo)，可以下载观看）
  
  3.进行builder->builder apk 进行打包
  
@@ -16,4 +16,4 @@
  7.正常流畅是通股服务器进行下载资源包，我这里为了操作方便我是直接放到了sd卡跟目录下，正常上线为了防止用户误删除，自己选择安全的存放路径即可
  
 # 欢迎留言讨论，谢谢
-项目根据 <LoadResourceDemo>(https://github.com/LonelyPluto/LoadResourceDemo) 二次开发 谢谢作者
+项目根据 [LoadResourceDemo](https://github.com/LonelyPluto/LoadResourceDemo) 二次开发 谢谢作者
